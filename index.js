@@ -3,7 +3,7 @@ fetch(" http://localhost:3001/Products")
     return response.json();
   })
   .then(function (data) {
-    console.log(data); //array
+console.log(data); //array
     // console.log("hsjhjhkdf");
     for (let i=0; i<data.length; i++){
         console.log("hsjhjhkdf");
