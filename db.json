@@ -1,52 +1,68 @@
-{"Products":[
+{
+  "Products": [
     {
-        "name": "hero Product",
-        "detail": "Lorem ipsum dolor sit amet",
-        "price": "99",
-        "hero": "OMG This just came out today!",
-        "image": "https://media.istockphoto.com/id/909772478/photo/brown-teddy-bear-isolated-in-front-of-a-white-background.jpg?s=612x612&w=0&k=20&c=F4252bOrMfRTB8kWm2oM2jlb9JXY08tKCaO5G_ms1Uw="
+      "id": 1,
+      "name": "hero Product",
+      "detail": "Lorem ipsum dolor sit amet",
+      "price": "99",
+      "hero": "OMG This just came out today!",
+      "image": "https://media.istockphoto.com/id/909772478/photo/brown-teddy-bear-isolated-in-front-of-a-white-background.jpg?s=612x612&w=0&k=20&c=F4252bOrMfRTB8kWm2oM2jlb9JXY08tKCaO5G_ms1Uw="
     },
     {
-        "name": "Product 1",
-        "detail": "Lorem ipsum dolor sit amet",
-        "price": "99",
-        "info": "This is the latest and greatest product from Derp corp.",
-        "image": "https://image.smythstoys.com/picture/desktop/219826.jpg"
+      "id": 2,
+      "name": "Product 1",
+      "detail": "Lorem ipsum dolor sit amet",
+      "price": "99",
+      "info": "This is the latest and greatest product from Derp corp.",
+      "image": "https://image.smythstoys.com/picture/desktop/219826.jpg"
     },
     {
-    "name": "Product 2",
-    "detail": "Lorem ipsum dolor sit amet",
-    "price": "99",
-    "offer": "BOGOF",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROmGd97ngwNIMO7qkxp7p37407taQBEN0nhQ&usqp=CAU"
+      "id": 3,
+      "name": "Product 2",
+      "detail": "Lorem ipsum dolor sit amet",
+      "price": "99",
+      "offer": "BOGOF",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROmGd97ngwNIMO7qkxp7p37407taQBEN0nhQ&usqp=CAU"
     },
     {
-        "name": "Product 3",
-        "detail": "Lorem ipsum dolor sit amet",
-        "price": "99",
-        "image": "https://ids.si.edu/ids/deliveryService?max_w=550&id=NMAH-93-7206"
+      "id": 4,
+      "name": "Product 3",
+      "detail": "Lorem ipsum dolor sit amet",
+      "price": "99",
+      "image": "https://ids.si.edu/ids/deliveryService?max_w=550&id=NMAH-93-7206"
     },
     {
-            "name": "Product 4",
-        "detail": "Lorem ipsum dolor sit amet",
-        "price": "99",
-        "offer": "No srsly GTFO",
-        "image": "https://static.toiimg.com/thumb/resizemode-4,width-1200,height-900,msid-80331585/80331585.jpg"
-     },
-     {
-        "name": "Product 5",
-        "detail": "Lorem ipsum dolor sit amet",
-        "price": "99",
-        "image": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/150/15036/15036197.jpeg"
+      "id": 5,
+      "name": "Product 4",
+      "detail": "Lorem ipsum dolor sit amet",
+      "price": "99",
+      "offer": "No srsly GTFO",
+      "image": "https://static.toiimg.com/thumb/resizemode-4,width-1200,height-900,msid-80331585/80331585.jpg"
     },
     {
-        "name": "Product 6",
-        "detail": "Lorem ipsum dolor sit amet",
-        "price": "99",
-        "info": "This is the latest and greatest product from Derp corp.",
-        "offer": "info with offer",
-        "image": "https://i0.wp.com/post.healthline.com/wp-content/uploads/2022/01/1826386-10-Best-Fidget-Toys-to-Keep-You-Calm-1296x728-Header-ecafa7.jpg?w=1155&h=1528"
-    
+      "id": 6,
+      "name": "Product 5",
+      "detail": "Lorem ipsum dolor sit amet",
+      "price": "99",
+      "image": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/150/15036/15036197.jpeg"
+    },
+    {
+      "id": 7,
+      "name": "Product 6",
+      "detail": "Lorem ipsum dolor sit amet",
+      "price": "99",
+      "info": "This is the latest and greatest product from Derp corp.",
+      "offer": "info with offer",
+      "image": "https://i0.wp.com/post.healthline.com/wp-content/uploads/2022/01/1826386-10-Best-Fidget-Toys-to-Keep-You-Calm-1296x728-Header-ecafa7.jpg?w=1155&h=1528"
+    },
+    {
+      "name": "James",
+      "image": "https://img.freepik.com/free-vector/king-penguin-family-with-chick-realistic-closeup-image-with-adult-birds-front-side-view_1284-28818.jpg?w=2000",
+      "detail": "nn",
+      "info": "hg",
+      "offer": "00",
+      "price": "90",
+      "id": 8
     }
-]
+  ]
 }
