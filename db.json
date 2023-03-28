@@ -4,40 +4,40 @@
         "detail": "Lorem ipsum dolor sit amet",
         "price": "99",
         "hero": "OMG This just came out today!",
-        "image": "http://placehold.it/940x300/999/CCC"
+        "image": "https://media.istockphoto.com/id/909772478/photo/brown-teddy-bear-isolated-in-front-of-a-white-background.jpg?s=612x612&w=0&k=20&c=F4252bOrMfRTB8kWm2oM2jlb9JXY08tKCaO5G_ms1Uw="
     },
     {
         "name": "Product 1",
         "detail": "Lorem ipsum dolor sit amet",
         "price": "99",
         "info": "This is the latest and greatest product from Derp corp.",
-        "image": "http://placehold.it/300x300/999/CCC"
+        "image": "https://image.smythstoys.com/picture/desktop/219826.jpg"
     },
     {
     "name": "Product 2",
     "detail": "Lorem ipsum dolor sit amet",
     "price": "99",
     "offer": "BOGOF",
-    "image": "http://placehold.it/300x300/999/CCC"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROmGd97ngwNIMO7qkxp7p37407taQBEN0nhQ&usqp=CAU"
     },
     {
         "name": "Product 3",
         "detail": "Lorem ipsum dolor sit amet",
         "price": "99",
-        "image": "http://placehold.it/300x300/999/CCC"
+        "image": "https://ids.si.edu/ids/deliveryService?max_w=550&id=NMAH-93-7206"
     },
     {
             "name": "Product 4",
         "detail": "Lorem ipsum dolor sit amet",
         "price": "99",
         "offer": "No srsly GTFO",
-        "image": "http://placehold.it/300x300/999/CCC"
+        "image": "https://static.toiimg.com/thumb/resizemode-4,width-1200,height-900,msid-80331585/80331585.jpg"
      },
      {
         "name": "Product 5",
         "detail": "Lorem ipsum dolor sit amet",
         "price": "99",
-        "image": "http://placehold.it/300x300/999/CCC"
+        "image": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/150/15036/15036197.jpeg"
     },
     {
         "name": "Product 6",
@@ -45,7 +45,7 @@
         "price": "99",
         "info": "This is the latest and greatest product from Derp corp.",
         "offer": "info with offer",
-        "image": "http://placehold.it/300x300/999/CCC"
+        "image": "https://i0.wp.com/post.healthline.com/wp-content/uploads/2022/01/1826386-10-Best-Fidget-Toys-to-Keep-You-Calm-1296x728-Header-ecafa7.jpg?w=1155&h=1528"
     
     }
 ]
